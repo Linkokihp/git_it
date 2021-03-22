@@ -33,3 +33,16 @@
       display: flex;
       background-color: white;
   }
+
+  nav ul {
+      display: flex;
+  }
+
+  nav ul li {
+      margin: 0 3rem;
+  }
+
+  nav ul li a {
+      color: white;
+      text-decoration: none;
+  }
